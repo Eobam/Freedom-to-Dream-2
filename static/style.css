@@ -15,4 +15,11 @@ body {
 
 .side_text {
     text-align: left;
+    color: darkgreen;
+}
+
+.logo {
+    width: 1px;
+    height: 1px;
+    align-content: center;
 }
